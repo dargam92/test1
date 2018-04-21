@@ -1,3 +1,0 @@
-publish
-master
-test.c
