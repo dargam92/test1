@@ -1,0 +1,3 @@
+publish
+master
+test.c
